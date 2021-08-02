@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Monsters Rolodex
 
-This project is built with [Create React App](https://github.com/facebook/create-react-app).
+This project is built with ❤ using [Create React App](https://github.com/facebook/create-react-app).
 
 ## About the Application
 
