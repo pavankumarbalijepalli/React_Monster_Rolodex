@@ -8,7 +8,7 @@ export const CardList = (props) => {
         {
             // Here we map the array of monsters
             // and print out Card component for each item.
-            props.monsters.map(monster => <Card id={monster.id} monster = {monster}/>)
+            props.monsters.map(monster => <Card key={monster.id} monster = {monster}/>)
         }
     </div>
     )

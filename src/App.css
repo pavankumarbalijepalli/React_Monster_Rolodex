@@ -24,6 +24,12 @@
   color: white;
 }
 
+.title{
+  font-family: 'Bigelow Rules', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 5em;
+  color: #0ccac4;
+}
+
 .App-link {
   color: #61dafb;
 }

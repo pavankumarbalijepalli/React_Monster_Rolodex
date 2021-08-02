@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is built with [Create React App](https://github.com/facebook/create-react-app).
+
+## About the Application
+
+This is a Rolodex for Monsters where you can see each Monster's Name and Email ID. There is search bar where you can search based on the Monster's Name. It is built using React and this is my first react application.
+
 
 ## Available Scripts
 
