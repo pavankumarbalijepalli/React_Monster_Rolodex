@@ -34,6 +34,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run deploy`
+
+Launches the deploy script in package.json.\
+We have used gh-pages as a dependency and calling the script will deploy it into the github pages. 
+Here, you can see the [deployed application](https://bunnyistaken.github.io/React_Monster_Rolodex/).
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
